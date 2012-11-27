@@ -1,0 +1,7 @@
+*.class
+sounds/
+graphics/
+bin/
+*.mp3
+*.wav
+*.png
